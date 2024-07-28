@@ -1,6 +1,6 @@
-SRIRAAM N
+# SRIRAAM N
 
-Aspiring Chip Design Engineer
+# Aspiring Chip Design Engineer
 
 - 🔭 Pre-final year ECE student at SASTRA University
 - 👯 Passionate on Digital Electronics and Embedded Systems.
