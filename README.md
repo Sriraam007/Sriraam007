@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sriraam007](https://github.com/Sriraam007)
 
-- 📫 How to reach me **sriraamn25@gmail.com**
+- 📫 How to reach me **sriraamnwork@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13iTtnVaTFhdj-sQuE7ZyfH07Ut-840Rw/view?usp=sharing](https://drive.google.com/file/d/13iTtnVaTFhdj-sQuE7ZyfH07Ut-840Rw/view?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1sGrMSXoHMFypmTBX1t6XdJLmy-lp0i6n/view?usp=sharing)
 
 - ⚡ Fun fact **Trust the process - MS DHONI😁**
 
