@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriraam007&label=Profile%20views&color=0e75b6&style=flat" alt="sriraam007" /> </p>
 
-- 🔭 I’m currently working on [Vedic Multiplier-based applications](https://github.com/Sriraam007/64-X-64-Vedic-Multiplier-Urdhva-Tiryagbhyam-)
+- 🔭 Check out my [Vedic Multiplier-based applications](https://github.com/Sriraam007/64-X-64-Vedic-Multiplier-Urdhva-Tiryagbhyam-)
 
 - 🌱 I’m currently pursuing **M.Tech Electronics Design and Technology at NIT Calicut**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sriraam007](https://github.com/Sriraam007)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sriraam007)
 
-- 📫 How to reach me **sriraamnwork@gmail.com**
+- 📫 How to reach me **sriraamnwork@gmail.com** [LinkedIn](https://www.linkedin.com/in/sriraam-n-1a46a7223/)
+-                     
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1sGrMSXoHMFypmTBX1t6XdJLmy-lp0i6n/view?usp=sharing)
 
