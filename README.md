@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SRIRAAM N</h1>
 <h3 align="center">Aspiring Chip Design Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriraam007&label=Profile%20views&color=0e75b6&style=flat" alt="sriraam007" /> </p>
+
 
 - 🔭 Check out my [Vedic Multiplier-based applications](https://github.com/Sriraam007/64-X-64-Vedic-Multiplier-Urdhva-Tiryagbhyam-)
 
