@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Vedic Multiplier-based applications](https://github.com/Sriraam007/64-X-64-Vedic-Multiplier-Urdhva-Tiryagbhyam-)
 
-- 🌱 I’m currently pursuing **B.Tech ECE @ SASTRA**
+- 🌱 I’m currently pursuing **M.Tech Electronics Design and Technology at NIT Calicut**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sriraam007](https://github.com/Sriraam007)
 
